@@ -1,4 +1,4 @@
-### Hello there! I am Bruno Miranda Filetti 😀
+### Hello there! I am Bruno Filetti 😀
 
 - 👨‍💻 Solidity Dev
 - 🔭 Interests: Economics, coding, philosofy, cryptography and sociology.
