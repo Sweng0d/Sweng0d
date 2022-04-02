@@ -6,7 +6,7 @@
 - 💼 Founder of Brazilian Crypto Investment Fund
 <div align="center">
   <a href="https://github.com/Sweng0d">
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=Sweng0d&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="130" src="https://github-readme-stats.vercel.app/api?username=Sweng0d&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweng0d&layout=compact&langs_count=7&theme=tokyonight"/> </a>
 </div>
 <div style="display: inline_block">
