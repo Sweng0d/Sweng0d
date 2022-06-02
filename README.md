@@ -4,6 +4,7 @@
 - 🔭 Interests: Economics, coding, philosofy, cryptography and sociology.
 - 👨‍🎓 Graduated in Business Administration at Fundação Getulio Vargas
 - 💼 Founder of Brazilian Crypto Investment Fund
+-[📖 Foundry Book](https://github.com/foundry-rs/book) contributor
 <div align="center">
   <a href="https://github.com/Sweng0d">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Sweng0d&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
