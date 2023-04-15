@@ -1,6 +1,6 @@
 ### Hello there! I am Bruno Filetti 😀
 
-- 👨‍💻 Solidity Dev
+- 👨‍💻 Cairo Developer
 - 🔭 Interests: Economics, coding, philosofy, cryptography and sociology.
 - 👨‍🎓 Graduated in Business Administration at Fundação Getulio Vargas
 - 💼 Founder of Brazilian Crypto Investment Fund
