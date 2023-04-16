@@ -1,4 +1,4 @@
-### Hello there! I am Bruno Filetti 😀
+### Hello there! I am Bruno Filetti 
 
 - 👨‍💻 Cairo / Solidity Developer
 - 🔭 Interests: Economics, coding, philosofy, cryptography and sociology.
